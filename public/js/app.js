@@ -1,3 +1,16 @@
+// Utility to help with filter when searching
+function debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+        const later = () => {
+            clearTimeout(timeout);
+            func(...args);
+        };
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+    };
+}
+
 // Config - Toggle this to use the real API if needed
 const API_BASE_URL = 'https://interview.techliana.com';
 
@@ -31,9 +44,10 @@ function setupEventListeners() {
 
     // Search
     document.getElementById('search-btn').addEventListener('click', handleSearch);
-    document.getElementById('search-input').addEventListener('keypress', (e) => {
-        if (e.key === 'Enter') handleSearch();
-    });
+    
+    // Debounced Search on Input
+    const debouncedSearch = debounce(() => handleSearch(), 300);
+    document.getElementById('search-input').addEventListener('input', debouncedSearch);
 
     // Pagination
     document.getElementById('prev-btn').addEventListener('click', () => changePage(-1));
