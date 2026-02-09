@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Developersss",
+    "company": "TechCorp Solutions",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 200,000 - 300,000",
+    "jobType": "Full-time",
+    "description": "We are looking for an experienced Frontend Developer to join our dynamic team. You will be responsible for building responsive web applications using modern frameworks.",
+    "requirements": [
+        "5+ years experience with React/Vue",
+        "Strong JavaScript/TypeScript skills",
+        "Experience with REST APIs",
+        "Git version control"
+    ],
+    "postedDate": "2024-02-01"
+  },
+  {
+    "id": 2,
+    "title": "Junior React Developer",
+    "company": "StartUp Hub",
+    "location": "Remote",
+    "salary": "KES 80,000 - 120,000",
+    "jobType": "Full-time",
+    "description": "Join our growing startup as a Junior React Developer. Perfect opportunity for someone looking to grow their career in web development.",
+    "requirements": [
+        "1-2 years React experience",
+        "Basic understanding of APIs",
+        "CSS/HTML proficiency",
+        "Eagerness to learn"
+    ],
+    "postedDate": "2024-02-02"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "Digital Kenya",
+    "location": "Mombasa, Kenya",
+    "salary": "KES 150,000 - 250,000",
+    "jobType": "Full-time",
+    "description": "Looking for a versatile Full Stack Developer to work on both frontend and backend systems. Experience with Node.js and React is essential.",
+    "requirements": [
+        "Node.js and Express",
+        "React or Angular",
+        "MongoDB or PostgreSQL",
+        "REST API design"
+    ],
+    "postedDate": "2024-02-03"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Developer",
+    "company": "Creative Minds Agency",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 120,000 - 180,000",
+    "jobType": "Contract",
+    "description": "We need a talented UI/UX Developer who can translate designs into pixel-perfect, responsive web interfaces.",
+    "requirements": [
+        "Strong HTML/CSS skills",
+        "JavaScript frameworks knowledge",
+        "Figma/Adobe XD experience",
+        "Responsive design expertise"
+    ],
+    "postedDate": "2024-02-03"
+  },
+  {
+    "id": 5,
+    "title": "Angular Developer",
+    "company": "Enterprise Systems Ltd",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 180,000 - 280,000",
+    "jobType": "Full-time",
+    "description": "Seeking an experienced Angular Developer to maintain and enhance our enterprise applications.",
+    "requirements": [
+        "3+ years Angular experience",
+        "TypeScript proficiency",
+        "RxJS knowledge",
+        "Unit testing experience"
+    ],
+    "postedDate": "2024-02-04"
+  },
+  {
+    "id": 6,
+    "title": "Vue.js Developer",
+    "company": "CloudTech Kenya",
+    "location": "Remote",
+    "salary": "KES 140,000 - 220,000",
+    "jobType": "Full-time",
+    "description": "Join our remote team to build modern web applications using Vue.js and related technologies.",
+    "requirements": [
+        "Vue.js 3 experience",
+        "Vuex or Pinia",
+        "Component-based architecture",
+        "RESTful API integration"
+    ],
+    "postedDate": "2024-02-04"
+  },
+  {
+    "id": 7,
+    "title": "Frontend Engineer",
+    "company": "FinTech Innovations",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 250,000 - 350,000",
+    "jobType": "Full-time",
+    "description": "Build secure and scalable financial applications. Experience in the FinTech sector is a plus.",
+    "requirements": [
+        "Advanced JavaScript/TypeScript",
+        "React or Vue",
+        "State management libraries",
+        "Security best practices"
+    ],
+    "postedDate": "2024-02-05"
+  },
+  {
+    "id": 8,
+    "title": "React Native Developer",
+    "company": "Mobile First Solutions",
+    "location": "Kisumu, Kenya",
+    "salary": "KES 160,000 - 240,000",
+    "jobType": "Full-time",
+    "description": "Develop cross-platform mobile applications using React Native for both iOS and Android.",
+    "requirements": [
+        "React Native experience",
+        "Mobile app development",
+        "Redux or MobX",
+        "API integration"
+    ],
+    "postedDate": "2024-02-05"
+  },
+  {
+    "id": 9,
+    "title": "Web Developer Intern",
+    "company": "Tech Academy Kenya",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 30,000 - 50,000",
+    "jobType": "Internship",
+    "description": "6-month internship program for aspiring web developers. Learn from experienced mentors.",
+    "requirements": [
+        "Basic HTML/CSS/JavaScript",
+        "Willingness to learn",
+        "Good communication skills",
+        "Available full-time"
+    ],
+    "postedDate": "2024-02-06"
+  },
+  {
+    "id": 10,
+    "title": "JavaScript Developer",
+    "company": "Code Masters",
+    "location": "Remote",
+    "salary": "KES 130,000 - 200,000",
+    "jobType": "Full-time",
+    "description": "Work on various JavaScript projects including frontend and backend development.",
+    "requirements": [
+        "Strong JavaScript fundamentals",
+        "ES6+ features",
+        "Async programming",
+        "Problem-solving skills"
+    ],
+    "postedDate": "2024-02-06"
+  },
+  {
+    "id": 11,
+    "title": "Frontend Team Lead",
+    "company": "Tech Giants Kenya",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 300,000 - 450,000",
+    "jobType": "Full-time",
+    "description": "Lead a team of frontend developers while contributing to architecture and code reviews.",
+    "requirements": [
+        "7+ years frontend experience",
+        "Team leadership skills",
+        "Architecture design",
+        "Mentoring experience"
+    ],
+    "postedDate": "2024-02-07"
+ },
+  {
+    "id": 12,
+    "title": "WordPress Developer",
+    "company": "Web Design Pro",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 90,000 - 140,000",
+    "jobType": "Part-time",
+    "description": "Create and maintain WordPress websites for various clients. Custom theme development required.",
+    "requirements": [
+        "WordPress expertise",
+        "PHP knowledge",
+        "Custom theme development",
+        "Plugin customization"
+    ],
+    "postedDate": "2024-02-07"
+  },
+  {
+    "id": 13,
+    "title": "E-commerce Developer",
+    "company": "ShopKenya Online",
+    "location": "Nairobi, Kenya",
+    "salary": "KES 170,000 - 260,000",
+    "jobType": "Full-time",
+    "description": "Build and maintain our e-commerce platform. Experience with Shopify or WooCommerce preferred.",
+    "requirements": [
+        "E-commerce platform experience",
+        "Payment gateway integration",
+        "React or Vue",
+        "Performance optimization"
+    ],
+    "postedDate": "2024-02-08"
+  }
+]
