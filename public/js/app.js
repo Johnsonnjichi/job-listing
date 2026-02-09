@@ -1,7 +1,5 @@
 // Config - Toggle this to use the real API if needed
-const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
-    ? 'http://localhost:3000' 
-    : 'https://interview.techliana.com'; // Fallback to provided URL
+const API_BASE_URL = 'https://interview.techliana.com';
 
 // State
 const state = {
